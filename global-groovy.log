@@ -1,0 +1,46 @@
+2020-06-09 11:15:18,397 INFO  [log]      !!!!!..........The Project Starts From Here..........!!!!!     
+2020-06-09 11:15:35,889 INFO  [log] SKU00120
+2020-06-09 11:15:35,890 INFO  [log] Bat
+2020-06-09 11:15:37,077 INFO  [log] SKU00121
+2020-06-09 11:15:37,077 INFO  [log] Ball
+2020-06-09 11:15:38,001 INFO  [log] SKU00123
+2020-06-09 11:15:38,003 INFO  [log] IPhone 10
+2020-06-09 11:15:38,953 INFO  [log] SKU00124
+2020-06-09 11:15:38,953 INFO  [log] Galaxy X
+2020-06-09 11:15:39,997 INFO  [log] SKU00125
+2020-06-09 11:15:39,998 INFO  [log] Galaxy Pro
+2020-06-09 11:15:41,020 INFO  [log] SKU00126
+2020-06-09 11:15:41,020 INFO  [log] Books
+2020-06-09 11:15:44,322 INFO  [log] SKU00120
+2020-06-09 11:15:44,323 INFO  [log] Bat
+2020-06-09 11:15:44,326 INFO  [log] SKU00121
+2020-06-09 11:15:44,326 INFO  [log] Ball
+2020-06-09 11:15:44,329 INFO  [log] SKU00123
+2020-06-09 11:15:44,330 INFO  [log] IPhone 10
+2020-06-09 11:15:44,331 INFO  [log] SKU00124
+2020-06-09 11:15:44,331 INFO  [log] Galaxy X
+2020-06-09 11:15:44,332 INFO  [log] SKU00125
+2020-06-09 11:15:44,332 INFO  [log] Galaxy Pro
+2020-06-09 11:15:44,333 INFO  [log] SKU00126
+2020-06-09 11:15:44,334 INFO  [log] Books
+2020-06-09 11:15:48,578 INFO  [log] Samir${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-06-09 11:15:48,579 INFO  [log] SKU${=String.valueOf(Math.random()*1000).substring(0,5)}
+2020-06-09 11:15:49,642 INFO  [log] The totoal number of rows which contains data are 1
+2020-06-09 11:15:49,643 INFO  [log] The totoal number of Column which contains data are 3
+2020-06-09 11:15:49,647 INFO  [log] Samir${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-06-09 11:15:49,647 INFO  [log] SKU${=String.valueOf(Math.random()*1000).substring(0,5)}
+2020-06-09 11:15:50,854 INFO  [log] The totoal number of rows which contains data are 1
+2020-06-09 11:15:50,854 INFO  [log] The totoal number of Column which contains data are 3
+2020-06-09 11:15:50,855 INFO  [log] Samir${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-06-09 11:15:50,856 INFO  [log] SKU${=String.valueOf(Math.random()*1000).substring(0,5)}
+2020-06-09 11:16:26,800 INFO  [log] Samir${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-06-09 11:16:26,801 INFO  [log] SKU${=String.valueOf(Math.random()*1000).substring(0,5)}
+2020-06-09 11:16:27,920 INFO  [log] The totoal number of rows which contains data are 1
+2020-06-09 11:16:27,920 INFO  [log] The totoal number of Column which contains data are 3
+2020-06-09 11:16:27,922 INFO  [log] Samir${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-06-09 11:16:27,926 INFO  [log] SKU${=String.valueOf(Math.random()*1000).substring(0,5)}
+2020-06-09 11:16:28,989 INFO  [log] The totoal number of rows which contains data are 1
+2020-06-09 11:16:28,990 INFO  [log] The totoal number of Column which contains data are 3
+2020-06-09 11:16:28,991 INFO  [log] Samir${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-06-09 11:16:28,994 INFO  [log] SKU${=String.valueOf(Math.random()*1000).substring(0,5)}
+2020-06-09 11:16:29,806 INFO  [log]      !!!!!..........The Project Ends Here..........!!!!!     
